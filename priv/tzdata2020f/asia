@@ -1320,13 +1320,13 @@ Zone	Asia/Dili	8:22:20 -	LMT	1912 Jan  1
 # 1941-1945 data.
 
 # Zone	NAME		STDOFF	RULES	FORMAT	[UNTIL]
-Zone	Asia/Kolkata	5:53:28 -	LMT	1854 Jun 28 # Kolkata
-			5:53:20	-	HMT	1870	    # Howrah Mean Time?
-			5:21:10	-	MMT	1906 Jan  1 # Madras local time
+Zone	Asia/Kolkata	5:53:28 -	LMT	1906 Jan  1 # Kolkata
+#			5:53:20	-	HMT	1870	    # Howrah Mean Time?
+#			5:21:10	-	MMT	1906 Jan  1 # Madras local time
 			5:30	-	IST	1941 Oct
-			5:30	1:00	+0630	1942 May 15
-			5:30	-	IST	1942 Sep
-			5:30	1:00	+0630	1945 Oct 15
+#			5:30	1:00	+0630	1942 May 15
+#			5:30	-	IST	1942 Sep
+#			5:30	1:00	+0630	1945 Oct 15
 			5:30	-	IST
 # Since 1970 the following are like Asia/Kolkata:
 #	Andaman Is
